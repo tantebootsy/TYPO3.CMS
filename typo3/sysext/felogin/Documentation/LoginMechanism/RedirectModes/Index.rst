@@ -84,7 +84,7 @@ parameter :code:`redirect_url` is used.
 
 Example url::
 
-   http://www.domain.ext/index.php?id=12&redirect\_url=http%3A%2F%2Fwww%2Edomain%2Eext%2Fdestiny%2F
+   http://www.domain.ext/index.php?id=12&redirect_url=http%3A%2F%2Fwww%2Edomain%2Eext%2Fdestiny%2F
 
 
 .. _defined-by-referrer:
