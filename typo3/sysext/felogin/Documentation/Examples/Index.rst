@@ -33,7 +33,7 @@ and send visitors to the login page:
 
    config {
            typolinkLinkAccessRestrictedPages = 2
-           typolinkLinkAccessRestrictedPages_addParams = &return_url=###RETURN_URL###
+           typolinkLinkAccessRestrictedPages_addParams = &redirect_url=###RETURN_URL###
    }
 
 On the login page the login form must be configured to redirect to the
